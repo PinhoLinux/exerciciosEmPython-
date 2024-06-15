@@ -24,6 +24,14 @@ for pos, comida in enumerate(lanche):
     print(f'Eu vou comer {comida} na posicao {pos}')
 print('como pra caramba!')
 
+lanche = ('Hamburguer', 'suco','pizza','pudim', 'batata frita')
+
+print(sorted(lanche))
+print(lanche)
+
+# observação: eu não mudei a tupla, eu apenas coloquei em ordem
+
+
 
 
 

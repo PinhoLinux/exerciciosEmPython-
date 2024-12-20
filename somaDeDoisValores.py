@@ -1,0 +1,6 @@
+print(12*'-+')
+n1 = int(input('Digite um Numero:'))
+n2 = int(input('Digite o segunto Numero:'))
+soma = (n1 + n2)
+print(12*'-+')
+print(f'Você digitou {n1} e {n2}. a soma entre eles é = {soma}')
